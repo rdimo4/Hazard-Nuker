@@ -1,6 +1,11 @@
 # Hazard-Nuker
 Hazard Nuker - rdimo REUPLOAD
 
+
+# HOW TO USE?
+- [1] run install.cmd
+- [2] run hazard.py
+
 ---
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
