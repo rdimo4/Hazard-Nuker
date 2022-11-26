@@ -1,24 +1,6 @@
 # Hazard-Nuker
 Hazard Nuker - rdimo REUPLOAD
 
-
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_Hazard-Nuker&metric=ncloc" </a>
-<img src="https://img.shields.io/github/license/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/total?color=%23daff00&label=1.4.7 Downloads&style=flat-square" </a>
-<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars&style=flat-square" </a>
-<img src="https://img.shields.io/github/forks/Rdimo/Hazard-Nuker?color=%23daff00&label=Forks&style=flat-square" </a>
-</p>
-<p align="center">
-<a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker#Important">Important</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md">Changelogs</a> |
-<a href="https://cheataway.com">Discord</a>
-</p>
-
 ---
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
