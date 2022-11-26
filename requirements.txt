@@ -4,6 +4,7 @@ bs4
 colorama
 pycryptodome
 pypiwin32
+roblox-mod
 PIL-Tools
 pylibcheck
 pyinstaller
